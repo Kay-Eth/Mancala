@@ -1,0 +1,20 @@
+;en;pl
+PLAY_GAME;Play Game;Zagraj w grę
+PLAY_MULTI_GAME;Online Game;Gra online
+CHANGE_LANGUAGE;Change language;Zmień język
+EXIT_GAME;Exit game;Wyjdź z gry
+GAME_END;Game Over;Koniec Gry
+PLAYER_1;Player 1;Gracz 1
+PLAYER_2;Player 2;Gracz 2
+PLAY;Play!;Graj!
+RETURN;Return;Powrót
+PLAYER_TURN;Turn of <PLAYER>...;Teraz <PLAYER>...
+HUMAN_PLAYER;Human Player;Ludzki Gracz
+RANDOM_PLAYER;Random Player;Gracz Losowy
+MIN_MAX_PLAYER;MiniMax Player;Gracz MinMax
+ALPHA_BETA_PLAYER;AlphaBeta Player;Gracz AlphaBeta
+DEPTH;Depth:;Głębokość:
+POINTS_DIFF;Points difference;Różnica punktów
+MOVES_COUNT_DIFF;Moves count difference;Różnica liczby ruchów
+RANDOM_MOVE_ON;Random 1st move;Losowy 1. ruch
+RANDOM_MOVE_OFF;No random move;Brak losowego ruchu
